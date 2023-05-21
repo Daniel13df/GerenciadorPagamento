@@ -81,4 +81,4 @@ git push origin minha-contribuicao
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, entre em contato com [seu e-mail ou nome de usuário do GitHub].
+Em caso de dúvidas ou sugestões, entre em contato com seu e-mail ou nome de usuário do GitHub.
