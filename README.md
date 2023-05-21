@@ -79,10 +79,6 @@ git push origin minha-contribuicao
 
 6. Abra um pull request no repositório original, descrevendo suas alterações e contribuições.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
 ## Contato
 
 Em caso de dúvidas ou sugestões, entre em contato com [seu e-mail ou nome de usuário do GitHub].
